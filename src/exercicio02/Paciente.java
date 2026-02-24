@@ -14,5 +14,6 @@ public class Paciente {
         alvo[0]=fm* 0.5;
         alvo[1]=fm * 0.85;
         return alvo;
+
     }
 }
